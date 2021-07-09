@@ -1,0 +1,21 @@
+body {
+  background-color:#000009;
+}
+
+title {
+  color:#fffff1;
+  margin-left: 10px;
+}
+
+h1 {
+  border-left: 10px solid DarkBlue;
+}
+
+h2 {
+  border-left: 10px solid Blue;
+}
+
+body {
+  color:#fffff1;
+  margin-left: 20px;
+}
