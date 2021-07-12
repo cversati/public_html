@@ -8,11 +8,15 @@ title {
 }
 
 h1 {
-  border-left: 10px solid DarkBlue;
+  border-left: 10px solid #0BBFFF;
 }
 
 h2 {
-  border-left: 10px solid Blue;
+  border-left: 10px solid #0000FF;
+}
+
+h3 {
+  border-left: 10px solid #00008B;
 }
 
 body {
